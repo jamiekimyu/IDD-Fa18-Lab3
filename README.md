@@ -25,7 +25,7 @@ For this lab, we will be experimenting with a variety of sensors, sending the da
 ### 1. FSR, Flex Sensor, Photo cell, Softpot
 
 **a. What voltage values do you see from your force sensor?**
-0 - 460
+<br/> 0 - 460
 
 **b. What kind of relationship does the voltage have as a function of the force applied? (e.g., linear?)**
 
