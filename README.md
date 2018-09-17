@@ -76,3 +76,5 @@ For this lab, we will be experimenting with a variety of sensors, sending the da
 ### 3. Create your data logger!
  
 **a. Record and upload a short demo video of your logger in action.**
+![Video](https://www.youtube.com/watch?v=DitWKNQQdy8)
+
