@@ -25,8 +25,10 @@ For this lab, we will be experimenting with a variety of sensors, sending the da
 ### 1. FSR, Flex Sensor, Photo cell, Softpot
 
 **a. What voltage values do you see from your force sensor?**
+0 - 460
 
 **b. What kind of relationship does the voltage have as a function of the force applied? (e.g., linear?)**
+
 
 **c. Can you change the LED fading code values so that you get the full range of output voltages from the LED when using your FSR?**
 
@@ -37,6 +39,7 @@ For this lab, we will be experimenting with a variety of sensors, sending the da
 ### 2. Accelerometer
  
 **a. Include your accelerometer read-out code in your write-up.**
+![Code](https://github.com/jamiekimyu/IDD-Fa18-Lab3/blob/master/accelerometer.ino)
 
 ### 3. IR Proximity Sensor
 
