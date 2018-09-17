@@ -39,13 +39,14 @@ For this lab, we will be experimenting with a variety of sensors, sending the da
 ### 2. Accelerometer
  
 **a. Include your accelerometer read-out code in your write-up.**
-![Code](https://github.com/jamiekimyu/IDD-Fa18-Lab3/blob/master/accelerometer.ino)
+[Code](https://github.com/jamiekimyu/IDD-Fa18-Lab3/blob/master/accelerometer.ino)
 
 ### 3. IR Proximity Sensor
 
 **a. Describe the voltage change over the sensing range of the sensor. A sketch of voltage vs. distance would work also. Does it match up with what you expect from the datasheet?**
 
 **b. Upload your merged code to your lab report repository and link to it here.**
+[Merged Code](https://github.com/jamiekimyu/IDD-Fa18-Lab3/tree/master)
 
 ## Optional. Graphic Display
 
