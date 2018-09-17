@@ -67,6 +67,7 @@ For this lab, we will be experimenting with a variety of sensors, sending the da
 **e. Alternately, how would we store the data if it were bigger than a byte? (hint: take a look at the [EEPROMPut](https://www.arduino.cc/en/Reference/EEPROMPut) example)**
 
 **Upload your modified code that takes in analog values from your sensors and prints them back out to the Arduino Serial Monitor.**
+<br/> [Code](https://github.com/jamiekimyu/IDD-Fa18-Lab3/tree/master)
 
 ### 2. Design your logger
  
