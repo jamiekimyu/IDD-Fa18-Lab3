@@ -48,7 +48,7 @@ For this lab, we experimented with a variety of sensors, sending the data to the
 <br/>As distance decreases from the object to the sensor, proximity increases and ambience decreases. Voltage increases as distance decreases and proximity increases.
 
 **b. Upload your merged code to your lab report repository and link to it here.**
-<br/>[Merged Code](https://github.com/jamiekimyu/IDD-Fa18-Lab3/tree/master)
+<br/>[Merged Code](https://github.com/jamiekimyu/IDD-Fa18-Lab3/blob/master/merged_code.ino)
 
 ## Optional. Graphic Display
 
@@ -74,7 +74,7 @@ For this lab, we experimented with a variety of sensors, sending the data to the
 <br/>If the data was bigger than a byte you can convert it into memory (or into EEPROM - Electrically Erasable Programmable Read-Only Memory) .
 
 **Upload your modified code that takes in analog values from your sensors and prints them back out to the Arduino Serial Monitor.**
-<br/> [Code](https://github.com/jamiekimyu/IDD-Fa18-Lab3/tree/master)
+<br/> [Code](https://github.com/jamiekimyu/IDD-Fa18-Lab3/blob/master/state_code.ino)
 
 ### 2. Design your logger
  
