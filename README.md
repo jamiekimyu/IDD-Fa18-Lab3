@@ -20,7 +20,7 @@ For this lab, we will be experimenting with a variety of sensors, sending the da
 
 **How might you use this with only the parts in your kit? Show us your solution.**
 [RGB Led](https://www.youtube.com/watch?v=RAVb8aH5-l4)
-I added resistors to each of the R,G,B legs and Ground. I connected the common anode to 5V and connected to power. The result is shown in the linked video. 
+<br/> I added resistors to each of the R,G,B legs and Ground. I connected the common anode to 5V and connected to power. The result is shown in the linked video. 
 
 ## Part C. Voltage Varying Sensors 
  
