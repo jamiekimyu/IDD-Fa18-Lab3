@@ -45,7 +45,7 @@ For this lab, we experimented with a variety of sensors, sending the data to the
 ### 3. IR Proximity Sensor
 
 **a. Describe the voltage change over the sensing range of the sensor. A sketch of voltage vs. distance would work also. Does it match up with what you expect from the datasheet?**
-As distance decreases from the object to the sensor, proximity increases and ambience decreases. Voltage increases as distance decreases and proximity increases.
+<br/>As distance decreases from the object to the sensor, proximity increases and ambience decreases. Voltage increases as distance decreases and proximity increases.
 
 **b. Upload your merged code to your lab report repository and link to it here.**
 <br/>[Merged Code](https://github.com/jamiekimyu/IDD-Fa18-Lab3/tree/master)
