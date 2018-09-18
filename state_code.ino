@@ -38,6 +38,11 @@ void setup() {
 void loop() {
   // map the pot range to number of states :
   state = map(analogRead(sensorPin), sensorMin, sensorMax, 0, numStates);
+  
+  // write to serial monitor
+  Serial.println(analogRead(sensorPin));
+  
+  delay(100);
 
   // do something different depending on the 
   // range value:
